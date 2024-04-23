@@ -1,5 +1,6 @@
 Olá, sou o Marquinho!🙋‍♂️
-Me chamo Marcos Vinicius Catapan e sou formado em Gestão empresarial pela Uninter.
+
+Me me chamo Marcos Vinicius Catapan e sou formado em Gestão empresarial pela Uninter.
 Sou apaixonado por programação, inteligência artificial e desenvolvimento de programas. Meu objetivo é aprender e aprimorar cada vez mais minhas habilidades nessa área para poder compartilhar meus conhecimentos com outras pessoas e desenvolver novas idéias. Vamos trocar ideias e crescer juntos nesse universo da tecnologia! 🚀💻
 
 ⚒️ Habilidades
